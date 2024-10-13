@@ -1,0 +1,1 @@
+toolTipTimerCreate = 150;
